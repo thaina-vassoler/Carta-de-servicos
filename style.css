@@ -1,0 +1,77 @@
+.container {
+    max-width: 3000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #40a7eb1a;
+    box-shadow: 2px 2px 4px gray;
+    }
+
+
+.quadrado {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, rgba(183, 216, 238, 0.911),#40a6eb);
+    margin: 2px;
+    padding-top: 0px;
+    text-align: center;    
+    font-size: 16px;
+    box-shadow: 2px 2px 2px gray;
+    color: #032277;
+    
+}
+
+
+.quadrado:hover {
+    background-image: linear-gradient(to bottom right, rgba(243, 191, 187, 0.911),rgba(231, 35, 21, 0.911));
+    color: white;
+}
+
+
+
+.material-symbols-outlined {
+    padding-right: 5px;
+    font-optical-sizing: 30px;
+    
+   
+}
+
+
+
+/*.content {
+    max-width: 1300px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+
+.quadrado {
+    width: 500px;
+    height: 30px;
+    display: inline-block;
+    background-image: linear-gradient(to bottom right, rgba(183, 216, 238, 0.911),rgb(64, 166, 235));
+    margin: 0px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 0px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 2px gray;
+    
+}
+
+.quadrado:hover {
+    background-image: linear-gradient(to bottom right, rgba(243, 191, 187, 0.911),rgba(231, 35, 21, 0.911));
+}
+*/
+
+
+
